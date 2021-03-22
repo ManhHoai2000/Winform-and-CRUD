@@ -1,0 +1,10 @@
+C:\Users\COMPUTER\Desktop\New folder (4)\NguyenManhHoai_5951071029\NguyenManhHoai_5951071029\bin\Debug\NguyenManhHoai_5951071029.exe.config
+C:\Users\COMPUTER\Desktop\New folder (4)\NguyenManhHoai_5951071029\NguyenManhHoai_5951071029\bin\Debug\NguyenManhHoai_5951071029.exe
+C:\Users\COMPUTER\Desktop\New folder (4)\NguyenManhHoai_5951071029\NguyenManhHoai_5951071029\bin\Debug\NguyenManhHoai_5951071029.pdb
+C:\Users\COMPUTER\Desktop\New folder (4)\NguyenManhHoai_5951071029\NguyenManhHoai_5951071029\obj\Debug\NguyenManhHoai_5951071029.csprojAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\New folder (4)\NguyenManhHoai_5951071029\NguyenManhHoai_5951071029\obj\Debug\NguyenManhHoai_5951071029.Form1.resources
+C:\Users\COMPUTER\Desktop\New folder (4)\NguyenManhHoai_5951071029\NguyenManhHoai_5951071029\obj\Debug\NguyenManhHoai_5951071029.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\New folder (4)\NguyenManhHoai_5951071029\NguyenManhHoai_5951071029\obj\Debug\NguyenManhHoai_5951071029.csproj.GenerateResource.cache
+C:\Users\COMPUTER\Desktop\New folder (4)\NguyenManhHoai_5951071029\NguyenManhHoai_5951071029\obj\Debug\NguyenManhHoai_5951071029.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Desktop\New folder (4)\NguyenManhHoai_5951071029\NguyenManhHoai_5951071029\obj\Debug\NguyenManhHoai_5951071029.exe
+C:\Users\COMPUTER\Desktop\New folder (4)\NguyenManhHoai_5951071029\NguyenManhHoai_5951071029\obj\Debug\NguyenManhHoai_5951071029.pdb
